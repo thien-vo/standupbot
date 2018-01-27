@@ -2,3 +2,5 @@ src/
 *.mp4
 .idea/
 *.xml
+
+__pycache__/
